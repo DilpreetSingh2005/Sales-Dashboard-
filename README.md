@@ -58,12 +58,6 @@ This interactive Power BI dashboard provides comprehensive insights into sales p
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add dashboard1.png here after uploading)
-
----
-
 ## 👨‍💻 Developed By
 
 **Dilpreet Singh**
