@@ -71,7 +71,7 @@ This interactive Power BI dashboard provides comprehensive insights into sales p
 Founder of **Datanity**
 
 Website:
-datanity.netlify.app
+datanity-dashboard.netlify.app
 
 Instagram:
 https://www.instagram.com/_datanity_?igsh=MXMzeWx1bnZhYm9oYw==
